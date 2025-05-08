@@ -25,7 +25,7 @@ This project was created using Python's `tkinter` library for the graphical user
 
 ## **Example:**
 
-![Flashcard App Example](https://github.com/your-username/flashcard-app/blob/main/example.png?raw=true)
+![Flashcard App Example](https://github.com/Bosaif39/example-pics/blob/main/D_31.png?raw=true)
 
 ## **Requirements:**
 
