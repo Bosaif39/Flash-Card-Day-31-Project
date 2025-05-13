@@ -30,8 +30,6 @@ This project was created using Python's `tkinter` library for the graphical user
 ## **Requirements:**
 
 * **Python 3.x**: Ensure you are using Python 3.x.
-* **Libraries**:
-
-  * `tkinter` (usually pre-installed with Python)
-  * `pandas` (for handling CSV files)
-  * `random` (to randomly select words from the list)
+* `tkinter` (usually pre-installed with Python)
+* `pandas` (for handling CSV files)
+* `random` (to randomly select words from the list)
